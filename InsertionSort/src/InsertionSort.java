@@ -4,7 +4,7 @@
 public class InsertionSort {
     public int[] insertionSort(int[] list){
         int i = 1;
-        while(i< list.length){
+        while(i < list.length){
             int j = i;
                 while( j > 0 && list[j-1] > list[j] ){
                     int temp = list[j];
@@ -21,7 +21,8 @@ public class InsertionSort {
     public static void main(String[] args) {
         InsertionSort insertionSort = new InsertionSort();
         int[] test = {5,2,9,4,2,1};
-        for(int i : insertionSort.insertionSort(test)){
+        insertionSort.insertionSort(test);
+        for(int i : test){
             System.out.println(i);
         }
 
