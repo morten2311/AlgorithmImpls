@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/HeapSort/HeapSort.iml" filepath="$PROJECT_DIR$/HeapSort/HeapSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnagramFinder/ReverseString.iml" filepath="$PROJECT_DIR$/AnagramFinder/ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseStrings/ReverseStrings.iml" filepath="$PROJECT_DIR$/ReverseStrings/ReverseStrings.iml" />
     </modules>
   </component>
 </project>
